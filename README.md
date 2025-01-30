@@ -66,17 +66,14 @@
             <img src="exoticsbear1.png" alt="Exotics Bears">
         </div>
     </main>
-
     <section class="authors">
         <h3>Autores</h3>
         <div class="author-container">
- 
             <div class="author">
                 <img src="nicolvs.gn.jpg" alt="Autor 1" class="author-photo">
                 <p>Nicolás Garcés</p>
                 <a href="https://www.instagram.com/nicolvs.gn/" class="social-link">Instagram</a>
             </div>
-
             <div class="author">
                 <img src="sir_dxniel.jpg" alt="Autor 2" class="author-photo">
                 <p>Daniel Arias</p>
@@ -84,7 +81,6 @@
             </div>
         </div>
     </section>
-
     <footer>
         <div class="info-bar">
             <p>© 2025 Exotics Bears / Guayaquil, Ecuador / exoticsbears@gmail.com</p>
@@ -93,4 +89,3 @@
     <script src="carrito.js"></script>
 </body>
 </html>
-
