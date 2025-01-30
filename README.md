@@ -90,4 +90,3 @@
     </footer>
     <script src="carrito.js"></script>
 </body>
-</html>
